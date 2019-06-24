@@ -9,7 +9,7 @@ dependencies:
   - xarray
   - netcdf4
   - dask
-  - gdal
+#   - gdal
   - pip
   - pip:
     - "--editable=git+https://github.com/friedrichknuth/driveanon.git#egg=driveanon"
