@@ -9,6 +9,7 @@ dependencies:
   - xarray
   - netcdf4
   - dask
+  - h5netcdf
 #   - gdal
   - pip
   - pip:
