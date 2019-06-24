@@ -11,4 +11,4 @@ dependencies:
   - dask
   - pip:
     - "--editable=git+https://github.com/friedrichknuth/driveanon.git#egg=driveanon"
-    - gdal
+    - osgeo
