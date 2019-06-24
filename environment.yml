@@ -9,6 +9,6 @@ dependencies:
   - xarray
   - netcdf4
   - dask
+  - osgeo
   - pip:
     - "--editable=git+https://github.com/friedrichknuth/driveanon.git#egg=driveanon"
-    - osgeo
