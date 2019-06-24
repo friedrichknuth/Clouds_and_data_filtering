@@ -1,4 +1,8 @@
 # Clouds_and_data_filtering
+To launch this notebook on a MyBinder instance, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/Clouds_and_data_filtering.git/master)
+
+
+
 Tutorial investigating how clouds can affect surface detection in ATL03 and ATL06
 
 This tutorial covers some of the reasons you might see weird results over ice when clouds start to blot out the surface signals.  The learning objectives I'd like to get to are:
