@@ -1,6 +1,5 @@
 # Clouds_and_data_filtering
-To launch this notebook on a MyBinder instance, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/Clouds_and_data_filtering.git/master)
-
+To launch this notebook on a MyBinder instance, click here: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/friedrichknuth/Clouds_and_data_filtering.git/master)
 
 
 Tutorial investigating how clouds can affect surface detection in ATL03 and ATL06
